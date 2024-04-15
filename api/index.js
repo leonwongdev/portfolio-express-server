@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
-const connectDB = require("./db");
-const Project = require("./models/Project");
+const connectDB = require("../db");
+const Project = require("../models/Project");
 const app = express();
 const port = process.env.PORT || 3000;
 // Load environment variables from .env file
