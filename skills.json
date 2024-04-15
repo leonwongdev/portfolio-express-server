@@ -1,0 +1,22 @@
+[
+  {
+    "name": "JavaScript",
+    "iconPath": "https://cdn.example.com/icons/javascript.png"
+  },
+  {
+    "name": "React.js",
+    "iconPath": "https://cdn.example.com/icons/react.png"
+  },
+  {
+    "name": "Node.js",
+    "iconPath": "https://cdn.example.com/icons/nodejs.png"
+  },
+  {
+    "name": ".NET",
+    "iconPath": "https://cdn.example.com/icons/dotnet.png"
+  },
+  {
+    "name": "MS SQL Server",
+    "iconPath": "https://cdn.example.com/icons/mssql.png"
+  }
+]
