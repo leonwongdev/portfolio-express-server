@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "661d970e7302b4fd8a7f8b34"
+  },
+  "name": "React.js",
+  "iconPath": "<i class=\"devicon-react-original-wordmark colored\"></i>"
+},
+{
+  "_id": {
+    "$oid": "661d970e7302b4fd8a7f8b36"
+  },
+  "name": ".NET",
+  "iconPath": "<i class=\"devicon-dotnetcore-plain colored\"></i>"
+},
+{
+  "_id": {
+    "$oid": "661d970e7302b4fd8a7f8b37"
+  },
+  "name": "MS SQL Server",
+  "iconPath": "<i class=\"devicon-microsoftsqlserver-plain-wordmark\"></i>"
+}]
