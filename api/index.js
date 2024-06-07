@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
 // GET endpoint to retrieve all projects
 app.get("/api/projects", async (req, res) => {
   try {
-    const projects = await Project.find();
+    const projects = await Project.find().sort({ rank: 1 });
     res.json(projects);
   } catch (err) {
     res.status(500).json({ error: err.message });
